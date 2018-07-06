@@ -11,5 +11,7 @@ Use Aegisub to create subtitle/karaoke SSA/ASS files, it is opensource (http://w
 - You either use `Play On Awake` or call the method `StartSubtitle()` or `StartSubtitle(callback)`.
 - Add your custom tag to `Highlight Start Tag` and `Highlight End Tag` to highlight words of the line.
 
+![Component](https://github.com/hammerplay-studios/karaoke/blob/master/ReadmeFiles/Karaoke-Component.PNG?raw=true)
 
-![Totally the best gif evar](https://github.com/roguecode/Unity-Simple-SRT/blob/master/Preview.gif?raw=true)
+## Preview
+![Preview](https://github.com/hammerplay-studios/karaoke/blob/master/ReadmeFiles/preview.gif?raw=true)
